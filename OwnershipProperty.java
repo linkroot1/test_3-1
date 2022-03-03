@@ -1,7 +1,7 @@
 package Model.ownership;
 
 // Свойства обладания юнитом (1 коммит в мастер ветку)
-public class OwnershipProperty implements CanOwnUnit {
+public class OwnershipProperty implements CanOwnUnit { //commit pavlenko fetch 1
 
     // ---------------------- Владелец свойства ---------------------
     private final CanOwnUnit _owner; //(2 коммит в мастер ветку Павленко)
