@@ -14,7 +14,7 @@ public class OwnershipProperty implements CanOwnUnit {
     }
 
     // ---------------------- Юнит, которым владеем ----------------
-    private Unit _unit = null;
+    private Unit _unit = null; // pavlenko f 2
 
     public boolean putUnit(Unit unit){
         boolean ok = false;
