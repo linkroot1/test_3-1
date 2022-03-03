@@ -45,6 +45,7 @@ public class CellPosition {
     }
 
     public CellPosition shift(Direction direct, int delta) {
+		//asdjaksdkjasjkdasjkd
 
         if(delta <= 0) {
             throw new IllegalArgumentException();
