@@ -12,7 +12,7 @@ public class OwnershipProperty implements CanOwnUnit { //commit pavlenko fetch 1
         }
         _owner = owner;//(commit 5 )
     }
-
+// pavlenko f 3
     // ---------------------- Юнит, которым владеем ----------------
     private Unit _unit = null;
 
