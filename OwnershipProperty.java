@@ -11,7 +11,7 @@ public class OwnershipProperty implements CanOwnUnit {
             throw new NullPointerException();
         }
         _owner = owner;//(commit 5 )
-    }
+    }//pavlenko 5
 
     // ---------------------- Юнит, которым владеем ----------------
     private Unit _unit = null; // pavlenko f 2
